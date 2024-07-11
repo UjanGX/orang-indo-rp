@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/sunset-silhouettes-trees-mountains-generative-ai_169016-29371.avif);
+}
+
+.container-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer {
+    font-size: 40px;
+    color: aqua;
+}
+
+.h1-footer:hover {
+    background-color: red;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
