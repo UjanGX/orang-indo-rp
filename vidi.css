@@ -28,7 +28,6 @@
 .main-content {
     background-image: url(img/sunset-silhouettes-trees-mountains-generative-ai_169016-29371.avif);
     background-size: cover;
-    flex-grow: 1;
     min-height: 100vh;
 }
 
